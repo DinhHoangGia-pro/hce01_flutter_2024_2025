@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "400765339439",
+    "project_id": "hce01-b7830",
+    "storage_bucket": "hce01-b7830.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400765339439:android:7b3834a7ce15421b4f03da",
+        "android_client_info": {
+          "package_name": "edu.hce01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACZBsJZ2z2h9yrSXB3faP2MU1ZtXah5XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
